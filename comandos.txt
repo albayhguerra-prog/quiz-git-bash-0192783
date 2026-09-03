@@ -1,0 +1,1 @@
+1.pwd, 2.touch, 3.cd, 4.ls, 5.echo, 6.mkdir, 7.git status, 8.git log
