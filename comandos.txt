@@ -1,1 +1,2 @@
 1.pwd, 2.touch, 3.cd, 4.ls, 5.echo, 6.mkdir, 7.git status, 8.git log
+9.git remote add, 10.git config --global user.name, 11. git config --global user.email, 12.git cat, 13.git branch -M main, 14.git push, 15.git clone, 16.rm, 17.rmdir
